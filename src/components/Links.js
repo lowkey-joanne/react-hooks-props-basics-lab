@@ -13,7 +13,7 @@ function Links(props) {
             {props.linkedin}
         </a>
         </>
-    )
+    );
 }
 
 export default Links;
